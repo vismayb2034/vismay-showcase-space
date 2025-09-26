@@ -22,7 +22,7 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-xl lg:text-2xl text-foreground/80 mb-8 leading-relaxed">
-              A passionate software developer creating efficient and scalable web applications
+              i am a passionate rider
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
